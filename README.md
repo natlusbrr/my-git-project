@@ -1,2 +1,1 @@
-"#  My Project" 
-"# my-git-project" 
+"# My Project" 
